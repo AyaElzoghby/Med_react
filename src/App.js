@@ -1,7 +1,7 @@
 import "./App.css";
 import React from "react";
 import Grid from "./components/grid";
-import data from "./data/data.json";
+import data from "./data/names.json";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 // In your App.js
