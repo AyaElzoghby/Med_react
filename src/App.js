@@ -1,16 +1,15 @@
 import "./App.css";
 import React from "react";
 import Grid from "./components/grid";
-import data from "./data/names.json";
+import data from "./data/med.json";
 import "bootstrap/dist/css/bootstrap.min.css";
 
-// In your App.js
+// Implement the logic to update the data in  application
 const updateData = (updatedItem) => {
-  // Implement the logic to update the data in  application
 };
 
+// Implement the logic to remove the data from  application
 const deleteData = (index) => {
-  // Implement the logic to remove the data from  application
 };
 
 const handleEdit = (updatedItem) => {

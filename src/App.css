@@ -1,3 +1,4 @@
+/* app.js style */
 *{
   direction: rtl;
 }
@@ -8,26 +9,113 @@
 
 }
 /* Grid style */
-.grid{
+.grid-component{
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  margin-right: auto;
+  margin-left: auto;
   width: 90%;
   height: 75vh;
-  overflow-x: auto;
+  .grid{
+    width: 100%;
+    height: 75vh;
+    overflow-x: auto;
+    
+    table{
+      width:fit-content;
+      border: 2px solid lightgray;
+      border-radius:5px;
+      text-align: center;
+      tbody{
+        overflow-y: auto;
+      }
+      thead {
+        position: sticky;
+        top: 0;
+        /* background-color: #f2f2f2; */
+        z-index: 1;
+      }
+      input{
+        width:100%;
+      }
+      select{
+        width: 100%;
+      }
+      th, td {
+        border: 1px solid #ddd;
+        height:40px;
+        padding:5px;
+  
+      }
+      td{
+        text-align: right;
+        min-width: 100px;
+        max-width: 200px;
+        /* word-wrap: break-word; */
+      }
+      th{
+        background-color: #E4E7EC;
+      }
+      tr:hover {background-color: #EAF5FA;}
+      .Actions{
+        height: inherit;
+        .action-cont{
+          display: flex;
+     
+          height: inherit;
+          justify-content: space-around;
+        }
+      }
+    
+      button{
+        width:fit-content;
+        font-size:14px;
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: 600;
+        padding:3px 6px;
+        min-width:70px;
+        border-radius:5px;
+        margin: auto 5px;
+        /* margin-top: auto;
+        margin-bottom: auto; */
+        border: none;
+        
+      }
+      .Edit{
+        background-color:#E4EDF2 ;
+        color: #227099;
+      }
+      .Delete{
+        background-color:#F9EAEB ;
+        color: #F15555;
+      }
+      .Save{
+        background-color:#E8F0EE;
+        color: #428C71;
+      }
+      .Add{
+        background-color:#227099;
+        color: white;
+      }
+    
+    }
+  }
   .table-Navigation{
     display: flex;
     justify-content: center;
     justify-items: center;
-    width:inherit;
+    width: 100%;
     position: sticky;
     z-index: 2;
     bottom: 0;
     left: 0;
     bottom: 0;
-
+  
     .container{
       justify-content: center;
       justify-items: center;
       text-align: center;
-      width: 100%;
       input{
         width:35px;
         height:35px;
@@ -42,83 +130,5 @@
       }
     }
     
-  }
-  table{
-    width:fit-content;
-    border: 2px solid lightgray;
-    border-radius:5px;
-    text-align: center;
-    tbody{
-      overflow-y: auto;
-    }
-    thead {
-      position: sticky;
-      top: 0;
-      /* background-color: #f2f2f2; */
-      z-index: 1;
-    }
-    input{
-      width:100%;
-    }
-    select{
-      width: 100%;
-    }
-    th, td {
-      border: 1px solid #ddd;
-      height:40px;
-      padding:5px;
-
-    }
-    td{
-      text-align: right;
-      min-width: 100px;
-      max-width: 200px;
-      /* word-wrap: break-word; */
-    }
-    th{
-      background-color: #E4E7EC;
-    }
-    tr:hover {background-color: #EAF5FA;}
-    .Actions{
-      height: inherit;
-      .action-cont{
-        display: flex;
-   
-        height: inherit;
-        justify-content: space-around;
-      }
-    }
-  
-    button{
-      width:fit-content;
-      font-size:14px;
-      font-family: 'Times New Roman', Times, serif;
-      font-weight: 600;
-      padding:3px 6px;
-      min-width:70px;
-      border-radius:5px;
-      margin: auto 5px;
-      /* margin-top: auto;
-      margin-bottom: auto; */
-      border: none;
-      
-    }
-    .Edit{
-      background-color:#E4EDF2 ;
-      color: #227099;
-    }
-    .Delete{
-      background-color:#F9EAEB ;
-      color: #F15555;
-    }
-    .Save{
-      background-color:#E8F0EE;
-      color: #428C71;
-    }
-    .Add{
-      background-color:#227099;
-      color: white;
-    }
-  
   }
 }
