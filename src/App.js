@@ -25,7 +25,7 @@ const App = () => {
     <div className="d-flex container-fluid row my-5 m-0">
       <div className="col-12">
         <h2 className="text-center mb-3">Grid Component</h2>
-        <Grid data={data} onEdit={handleEdit} onDelete={handleDelete}   unVisible={["دمغه"] }  
+        <Grid data={data} onEdit={handleEdit} onDelete={handleDelete}   Coulmns={["الشهر","دمغه"] }  dropList={[]}
       />
       </div>
     </div>

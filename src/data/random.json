@@ -1,0 +1,91 @@
+{
+    "data": [
+      {
+        "field": "name",
+        "caption": "Name",
+        "type": "text"
+      },
+      {
+        "field": "age",
+        "caption": "Age",
+        "type": "integer"
+      },
+      {
+        "field": "gender",
+        "caption": "Gender",
+        "type": "dropdown",
+        "options": [
+          "Male",
+          "Female",
+          "Other"
+        ]
+      },
+      {
+        "field": "is_employed",
+        "caption": "Employed",
+        "type": "checkbox"
+      },
+      {
+        "field": "education",
+        "caption": "Education Level",
+        "type": "dropdown",
+        "options": [
+          "High School",
+          "Bachelor's",
+          "Master's",
+          "PhD"
+        ]
+      },
+      {
+        "field": "annual_income",
+        "caption": "Annual Income",
+        "type": "integer"
+      },
+      {
+        "field": "marital_status",
+        "caption": "Marital Status",
+        "type": "dropdown",
+        "options": [
+          "Single",
+          "Married",
+          "Divorced",
+          "Widowed"
+        ]
+      },
+      {
+        "field": "hobbies",
+        "caption": "Hobbies",
+        "type": "text"
+      },
+      {
+        "field": "interests",
+        "caption": "Interests",
+        "type": "text"
+      },
+      {
+        "field": "favorite_color",
+        "caption": "Favorite Color",
+        "type": "dropdown",
+        "options": [
+          "Red",
+          "Green",
+          "Blue",
+          "Yellow",
+          "Purple",
+          "Orange"
+        ]
+      },
+      {
+        "field": "submit",
+        "caption": "Submit",
+        "type": "button",
+        "onClick": "submitForm()"
+      },
+      {
+        "field": "reset",
+        "caption": "Reset",
+        "type": "button",
+        "onClick": "resetForm()"
+      }
+    ]
+  }
