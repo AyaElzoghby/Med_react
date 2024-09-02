@@ -1,5 +1,6 @@
-{
-    "data": [
+[
+  {
+    "field": [
       {
         "field": "name",
         "caption": "Name",
@@ -14,11 +15,7 @@
         "field": "gender",
         "caption": "Gender",
         "type": "dropdown",
-        "options": [
-          "Male",
-          "Female",
-          "Other"
-        ]
+        "options": ["Male", "Female", "Other"]
       },
       {
         "field": "is_employed",
@@ -29,12 +26,7 @@
         "field": "education",
         "caption": "Education Level",
         "type": "dropdown",
-        "options": [
-          "High School",
-          "Bachelor's",
-          "Master's",
-          "PhD"
-        ]
+        "options": ["High School", "Bachelor's", "Master's", "PhD"]
       },
       {
         "field": "annual_income",
@@ -45,12 +37,7 @@
         "field": "marital_status",
         "caption": "Marital Status",
         "type": "dropdown",
-        "options": [
-          "Single",
-          "Married",
-          "Divorced",
-          "Widowed"
-        ]
+        "options": ["Single", "Married", "Divorced", "Widowed"]
       },
       {
         "field": "hobbies",
@@ -66,15 +53,10 @@
         "field": "favorite_color",
         "caption": "Favorite Color",
         "type": "dropdown",
-        "options": [
-          "Red",
-          "Green",
-          "Blue",
-          "Yellow",
-          "Purple",
-          "Orange"
-        ]
-      },
+        "options": ["Red", "Green", "Blue", "Yellow", "Purple", "Orange"]
+      }
+    ],
+    "actions": [
       {
         "field": "submit",
         "caption": "Submit",
@@ -89,3 +71,4 @@
       }
     ]
   }
+]

@@ -36,10 +36,15 @@
         z-index: 1;
       }
       input {
-        width: 100%;
+        width: fit-content;
+        max-width: 150px;
+      }
+      input::after{
+        width: fit-content;
+        max-width: 150px;
       }
       select {
-        width: 100%;
+        width: 150px;
       }
       th,
       td {
@@ -98,6 +103,9 @@
         background-color: #227099;
         color: white;
       }
+    }
+    .select{
+      width: 150px;
     }
   }
   .table-Navigation {

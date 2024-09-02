@@ -1,0 +1,2004 @@
+{
+    "success": true,
+    "data": [
+        [
+            {
+                "header": "CheckID",
+                "value": 76,
+                "caption": "",
+                "type": "text"
+            },
+            {
+                "header": "YearID",
+                "value": 2024,
+                "caption": "السنه",
+                "type": "text"
+            },
+            {
+                "header": "DepartmentID",
+                "value": 4015299,
+                "caption": "كود المحطه",
+                "type": "text"
+            },
+            {
+                "header": "AssetList",
+                "currentValue": 435146,
+                "CurrentName": "لوحة ربط رقم2",
+                "caption": "اسم العدة",
+                "type": "dropdown",
+                "id": 1
+            },
+            {
+                "header": "WorksDone",
+                "value": "تم فحص اللوحة",
+                "caption": "الاعمال التي تمت",
+                "type": "text"
+            },
+            {
+                "header": "CheckRemarks",
+                "value": null,
+                "caption": "الملاحظات",
+                "type": "text"
+            },
+            {
+                "header": "StatusID",
+                "value": 4,
+                "caption": "كود الحالة",
+                "type": "number"
+            },
+            {
+                "header": "StatusUserName",
+                "value": "لينا",
+                "caption": "اسم المستخدم",
+                "type": "date"
+            },
+            {
+                "header": "TimeStamp",
+                "value": "2024-08-23T12:16:36.910Z",
+                "caption": "وقت",
+                "type": "text"
+            },
+            {
+                "header": "UserName",
+                "value": null,
+                "caption": "المستخدم",
+                "type": "text"
+            },
+            {
+                "header": "AssetName",
+                "value": "لوحة ربط رقم2",
+                "caption": "اسم المعدة",
+                "type": "text"
+            },
+            {
+                "header": "IsGenerated",
+                "caption": "IsGenerated",
+                "type": "check",
+                "value":1
+
+            },
+            {
+                "header": "Genertate",
+                "value": 76,
+                "caption": "انشاء بلاغ",
+                "type": "button",
+                "id": 1
+            }
+        ],
+        [
+            {
+                "header": "CheckID",
+                "value": 75,
+                "caption": "",
+                "type": "text"
+            },
+            {
+                "header": "YearID",
+                "value": 2024,
+                "caption": "السنه",
+                "type": "text"
+            },
+            {
+                "header": "DepartmentID",
+                "value": 4015299,
+                "caption": "كود المحطه",
+                "type": "text"
+            },
+            {
+                "header": "AssetList",
+                "currentValue": 435079,
+                "CurrentName": "طلمبة رقم2",
+                "caption": "اسم العدة",
+                "type": "dropdown",
+                "id": 1
+            },
+            {
+                "header": "WorksDone",
+                "value": "لا",
+                "caption": "الاعمال التي تمت",
+                "type": "text"
+            },
+            {
+                "header": "CheckRemarks",
+                "value": "لا",
+                "caption": "الملاحظات",
+                "type": "text"
+            },
+            {
+                "header": "StatusID",
+                "value": 4,
+                "caption": "كود الحالة",
+                "type": "number"
+            },
+            {
+                "header": "StatusUserName",
+                "value": null,
+                "caption": "اسم المستخدم",
+                "type": "date"
+            },
+            {
+                "header": "TimeStamp",
+                "value": "2024-08-22T12:12:04.387Z",
+                "caption": "وقت",
+                "type": "text"
+            },
+            {
+                "header": "UserName",
+                "value": null,
+                "caption": "المستخدم",
+                "type": "text"
+            },
+            {
+                "header": "AssetName",
+                "value": "طلمبة رقم2",
+                "caption": "اسم المعدة",
+                "type": "text"
+            },
+            {
+                "header": "IsGenerated",
+                "caption": "IsGenerated",
+                "type": "check"
+            },
+            {
+                "header": "Genertate",
+                "value": 75,
+                "caption": "انشاء بلاغ",
+                "type": "button",
+                "id": 1
+            }
+        ],
+        [
+            {
+                "header": "CheckID",
+                "value": 72,
+                "caption": "",
+                "type": "text"
+            },
+            {
+                "header": "YearID",
+                "value": 2024,
+                "caption": "السنه",
+                "type": "text"
+            },
+            {
+                "header": "DepartmentID",
+                "value": 4015299,
+                "caption": "كود المحطه",
+                "type": "text"
+            },
+            {
+                "header": "AssetList",
+                "currentValue": 435080,
+                "CurrentName": "طلمبة رقم3",
+                "caption": "اسم العدة",
+                "type": "dropdown",
+                "id": 1
+            },
+            {
+                "header": "WorksDone",
+                "value": "hggdd",
+                "caption": "الاعمال التي تمت",
+                "type": "text"
+            },
+            {
+                "header": "CheckRemarks",
+                "value": "htd",
+                "caption": "الملاحظات",
+                "type": "text"
+            },
+            {
+                "header": "StatusID",
+                "value": 4,
+                "caption": "كود الحالة",
+                "type": "number"
+            },
+            {
+                "header": "StatusUserName",
+                "value": "لينا",
+                "caption": "اسم المستخدم",
+                "type": "date"
+            },
+            {
+                "header": "TimeStamp",
+                "value": "2024-08-21T09:50:24.377Z",
+                "caption": "وقت",
+                "type": "text"
+            },
+            {
+                "header": "UserName",
+                "value": null,
+                "caption": "المستخدم",
+                "type": "text"
+            },
+            {
+                "header": "AssetName",
+                "value": "طلمبة رقم3",
+                "caption": "اسم المعدة",
+                "type": "text"
+            },
+            {
+                "header": "IsGenerated",
+                "caption": "IsGenerated",
+                "type": "check"
+            },
+            {
+                "header": "Genertate",
+                "value": 72,
+                "caption": "انشاء بلاغ",
+                "type": "button",
+                "id": 1
+            }
+        ],
+        [
+            {
+                "header": "CheckID",
+                "value": 73,
+                "caption": "",
+                "type": "text"
+            },
+            {
+                "header": "YearID",
+                "value": 2024,
+                "caption": "السنه",
+                "type": "text"
+            },
+            {
+                "header": "DepartmentID",
+                "value": 4015299,
+                "caption": "كود المحطه",
+                "type": "text"
+            },
+            {
+                "header": "AssetList",
+                "currentValue": 435078,
+                "CurrentName": "طلمبه رقم1",
+                "caption": "اسم العدة",
+                "type": "dropdown",
+                "id": 1
+            },
+            {
+                "header": "WorksDone",
+                "value": "لا",
+                "caption": "الاعمال التي تمت",
+                "type": "text"
+            },
+            {
+                "header": "CheckRemarks",
+                "value": "اا",
+                "caption": "الملاحظات",
+                "type": "text"
+            },
+            {
+                "header": "StatusID",
+                "value": 1,
+                "caption": "كود الحالة",
+                "type": "number"
+            },
+            {
+                "header": "StatusUserName",
+                "value": null,
+                "caption": "اسم المستخدم",
+                "type": "date"
+            },
+            {
+                "header": "TimeStamp",
+                "value": "2024-08-21T14:21:37.333Z",
+                "caption": "وقت",
+                "type": "text"
+            },
+            {
+                "header": "UserName",
+                "value": null,
+                "caption": "المستخدم",
+                "type": "text"
+            },
+            {
+                "header": "AssetName",
+                "value": "طلمبه رقم1",
+                "caption": "اسم المعدة",
+                "type": "text"
+            },
+            {
+                "header": "IsGenerated",
+                "caption": "IsGenerated",
+                "type": "check"
+            },
+            {
+                "header": "Genertate",
+                "value": 73,
+                "caption": "انشاء بلاغ",
+                "type": "button",
+                "id": 1
+            }
+        ],
+        [
+            {
+                "header": "CheckID",
+                "value": 74,
+                "caption": "",
+                "type": "text"
+            },
+            {
+                "header": "YearID",
+                "value": 2024,
+                "caption": "السنه",
+                "type": "text"
+            },
+            {
+                "header": "DepartmentID",
+                "value": 4015299,
+                "caption": "كود المحطه",
+                "type": "text"
+            },
+            {
+                "header": "AssetList",
+                "currentValue": 435078,
+                "CurrentName": "طلمبه رقم1",
+                "caption": "اسم العدة",
+                "type": "dropdown",
+                "id": 1
+            },
+            {
+                "header": "WorksDone",
+                "value": "لا",
+                "caption": "الاعمال التي تمت",
+                "type": "text"
+            },
+            {
+                "header": "CheckRemarks",
+                "value": "لا",
+                "caption": "الملاحظات",
+                "type": "text"
+            },
+            {
+                "header": "StatusID",
+                "value": 1,
+                "caption": "كود الحالة",
+                "type": "number"
+            },
+            {
+                "header": "StatusUserName",
+                "value": null,
+                "caption": "اسم المستخدم",
+                "type": "date"
+            },
+            {
+                "header": "TimeStamp",
+                "value": "2024-08-21T16:18:05.793Z",
+                "caption": "وقت",
+                "type": "text"
+            },
+            {
+                "header": "UserName",
+                "value": null,
+                "caption": "المستخدم",
+                "type": "text"
+            },
+            {
+                "header": "AssetName",
+                "value": "طلمبه رقم1",
+                "caption": "اسم المعدة",
+                "type": "text"
+            },
+            {
+                "header": "IsGenerated",
+                "caption": "IsGenerated",
+                "type": "check"
+            },
+            {
+                "header": "Genertate",
+                "value": 74,
+                "caption": "انشاء بلاغ",
+                "type": "button",
+                "id": 1
+            }
+        ],
+        [
+            {
+                "header": "CheckID",
+                "value": 70,
+                "caption": "",
+                "type": "text"
+            },
+            {
+                "header": "YearID",
+                "value": 2024,
+                "caption": "السنه",
+                "type": "text"
+            },
+            {
+                "header": "DepartmentID",
+                "value": 4015299,
+                "caption": "كود المحطه",
+                "type": "text"
+            },
+            {
+                "header": "AssetList",
+                "currentValue": 435079,
+                "CurrentName": "طلمبة رقم2",
+                "caption": "اسم العدة",
+                "type": "dropdown",
+                "id": 1
+            },
+            {
+                "header": "WorksDone",
+                "value": "اب",
+                "caption": "الاعمال التي تمت",
+                "type": "text"
+            },
+            {
+                "header": "CheckRemarks",
+                "value": "ال",
+                "caption": "الملاحظات",
+                "type": "text"
+            },
+            {
+                "header": "StatusID",
+                "value": 4,
+                "caption": "كود الحالة",
+                "type": "number"
+            },
+            {
+                "header": "StatusUserName",
+                "value": null,
+                "caption": "اسم المستخدم",
+                "type": "date"
+            },
+            {
+                "header": "TimeStamp",
+                "value": "2024-08-20T11:00:08.130Z",
+                "caption": "وقت",
+                "type": "text"
+            },
+            {
+                "header": "UserName",
+                "value": null,
+                "caption": "المستخدم",
+                "type": "text"
+            },
+            {
+                "header": "AssetName",
+                "value": "طلمبة رقم2",
+                "caption": "اسم المعدة",
+                "type": "text"
+            },
+            {
+                "header": "IsGenerated",
+                "caption": "IsGenerated",
+                "type": "check"
+            },
+            {
+                "header": "Genertate",
+                "value": 70,
+                "caption": "انشاء بلاغ",
+                "type": "button",
+                "id": 1
+            }
+        ],
+        [
+            {
+                "header": "CheckID",
+                "value": 71,
+                "caption": "",
+                "type": "text"
+            },
+            {
+                "header": "YearID",
+                "value": 2024,
+                "caption": "السنه",
+                "type": "text"
+            },
+            {
+                "header": "DepartmentID",
+                "value": 4015299,
+                "caption": "كود المحطه",
+                "type": "text"
+            },
+            {
+                "header": "AssetList",
+                "currentValue": 435078,
+                "CurrentName": "طلمبه رقم1",
+                "caption": "اسم العدة",
+                "type": "dropdown",
+                "id": 1
+            },
+            {
+                "header": "WorksDone",
+                "value": "لا",
+                "caption": "الاعمال التي تمت",
+                "type": "text"
+            },
+            {
+                "header": "CheckRemarks",
+                "value": "لالا",
+                "caption": "الملاحظات",
+                "type": "text"
+            },
+            {
+                "header": "StatusID",
+                "value": 4,
+                "caption": "كود الحالة",
+                "type": "number"
+            },
+            {
+                "header": "StatusUserName",
+                "value": "لينا",
+                "caption": "اسم المستخدم",
+                "type": "date"
+            },
+            {
+                "header": "TimeStamp",
+                "value": "2024-08-20T12:31:52.597Z",
+                "caption": "وقت",
+                "type": "text"
+            },
+            {
+                "header": "UserName",
+                "value": null,
+                "caption": "المستخدم",
+                "type": "text"
+            },
+            {
+                "header": "AssetName",
+                "value": "طلمبه رقم1",
+                "caption": "اسم المعدة",
+                "type": "text"
+            },
+            {
+                "header": "IsGenerated",
+                "caption": "IsGenerated",
+                "type": "check"
+            },
+            {
+                "header": "Genertate",
+                "value": 71,
+                "caption": "انشاء بلاغ",
+                "type": "button",
+                "id": 1
+            }
+        ],
+        [
+            {
+                "header": "CheckID",
+                "value": 66,
+                "caption": "",
+                "type": "text"
+            },
+            {
+                "header": "YearID",
+                "value": 2024,
+                "caption": "السنه",
+                "type": "text"
+            },
+            {
+                "header": "DepartmentID",
+                "value": 4015299,
+                "caption": "كود المحطه",
+                "type": "text"
+            },
+            {
+                "header": "AssetList",
+                "currentValue": 435112,
+                "CurrentName": "ونش العنبر رقم1",
+                "caption": "اسم العدة",
+                "type": "dropdown",
+                "id": 1
+            },
+            {
+                "header": "WorksDone",
+                "value": "رائع",
+                "caption": "الاعمال التي تمت",
+                "type": "text"
+            },
+            {
+                "header": "CheckRemarks",
+                "value": "رهيب",
+                "caption": "الملاحظات",
+                "type": "text"
+            },
+            {
+                "header": "StatusID",
+                "value": 4,
+                "caption": "كود الحالة",
+                "type": "number"
+            },
+            {
+                "header": "StatusUserName",
+                "value": null,
+                "caption": "اسم المستخدم",
+                "type": "date"
+            },
+            {
+                "header": "TimeStamp",
+                "value": "2024-08-18T12:36:56.973Z",
+                "caption": "وقت",
+                "type": "text"
+            },
+            {
+                "header": "UserName",
+                "value": null,
+                "caption": "المستخدم",
+                "type": "text"
+            },
+            {
+                "header": "AssetName",
+                "value": "ونش العنبر رقم1",
+                "caption": "اسم المعدة",
+                "type": "text"
+            },
+            {
+                "header": "IsGenerated",
+                "caption": "IsGenerated",
+                "type": "check"
+            },
+            {
+                "header": "Genertate",
+                "value": 66,
+                "caption": "انشاء بلاغ",
+                "type": "button",
+                "id": 1
+            }
+        ],
+        [
+            {
+                "header": "CheckID",
+                "value": 68,
+                "caption": "",
+                "type": "text"
+            },
+            {
+                "header": "YearID",
+                "value": 2024,
+                "caption": "السنه",
+                "type": "text"
+            },
+            {
+                "header": "DepartmentID",
+                "value": 4015299,
+                "caption": "كود المحطه",
+                "type": "text"
+            },
+            {
+                "header": "AssetList",
+                "currentValue": 435091,
+                "CurrentName": "صندوق تروس رقم2",
+                "caption": "اسم العدة",
+                "type": "dropdown",
+                "id": 1
+            },
+            {
+                "header": "WorksDone",
+                "value": "لغ",
+                "caption": "الاعمال التي تمت",
+                "type": "text"
+            },
+            {
+                "header": "CheckRemarks",
+                "value": "لا",
+                "caption": "الملاحظات",
+                "type": "text"
+            },
+            {
+                "header": "StatusID",
+                "value": 4,
+                "caption": "كود الحالة",
+                "type": "number"
+            },
+            {
+                "header": "StatusUserName",
+                "value": "لينا",
+                "caption": "اسم المستخدم",
+                "type": "date"
+            },
+            {
+                "header": "TimeStamp",
+                "value": "2024-08-18T12:37:59.103Z",
+                "caption": "وقت",
+                "type": "text"
+            },
+            {
+                "header": "UserName",
+                "value": null,
+                "caption": "المستخدم",
+                "type": "text"
+            },
+            {
+                "header": "AssetName",
+                "value": "صندوق تروس رقم2",
+                "caption": "اسم المعدة",
+                "type": "text"
+            },
+            {
+                "header": "IsGenerated",
+                "caption": "IsGenerated",
+                "type": "check"
+            },
+            {
+                "header": "Genertate",
+                "value": 68,
+                "caption": "انشاء بلاغ",
+                "type": "button",
+                "id": 1
+            }
+        ],
+        [
+            {
+                "header": "CheckID",
+                "value": 41,
+                "caption": "",
+                "type": "text"
+            },
+            {
+                "header": "YearID",
+                "value": 2024,
+                "caption": "السنه",
+                "type": "text"
+            },
+            {
+                "header": "DepartmentID",
+                "value": 4015299,
+                "caption": "كود المحطه",
+                "type": "text"
+            },
+            {
+                "header": "AssetList",
+                "currentValue": 435078,
+                "CurrentName": "طلمبه رقم1",
+                "caption": "اسم العدة",
+                "type": "dropdown",
+                "id": 1
+            },
+            {
+                "header": "WorksDone",
+                "value": "لا",
+                "caption": "الاعمال التي تمت",
+                "type": "text"
+            },
+            {
+                "header": "CheckRemarks",
+                "value": "لا",
+                "caption": "الملاحظات",
+                "type": "text"
+            },
+            {
+                "header": "StatusID",
+                "value": 4,
+                "caption": "كود الحالة",
+                "type": "number"
+            },
+            {
+                "header": "StatusUserName",
+                "value": null,
+                "caption": "اسم المستخدم",
+                "type": "date"
+            },
+            {
+                "header": "TimeStamp",
+                "value": "2024-08-16T16:39:23.107Z",
+                "caption": "وقت",
+                "type": "text"
+            },
+            {
+                "header": "UserName",
+                "value": null,
+                "caption": "المستخدم",
+                "type": "text"
+            },
+            {
+                "header": "AssetName",
+                "value": "طلمبه رقم1",
+                "caption": "اسم المعدة",
+                "type": "text"
+            },
+            {
+                "header": "IsGenerated",
+                "caption": "IsGenerated",
+                "type": "check"
+            },
+            {
+                "header": "Genertate",
+                "value": 41,
+                "caption": "انشاء بلاغ",
+                "type": "button",
+                "id": 1
+            }
+        ],
+        [
+            {
+                "header": "CheckID",
+                "value": 42,
+                "caption": "",
+                "type": "text"
+            },
+            {
+                "header": "YearID",
+                "value": 2024,
+                "caption": "السنه",
+                "type": "text"
+            },
+            {
+                "header": "DepartmentID",
+                "value": 4015299,
+                "caption": "كود المحطه",
+                "type": "text"
+            },
+            {
+                "header": "AssetList",
+                "currentValue": 435093,
+                "CurrentName": "صندوق تروس رقم4",
+                "caption": "اسم العدة",
+                "type": "dropdown",
+                "id": 1
+            },
+            {
+                "header": "WorksDone",
+                "value": "جيد",
+                "caption": "الاعمال التي تمت",
+                "type": "text"
+            },
+            {
+                "header": "CheckRemarks",
+                "value": "لا شيء",
+                "caption": "الملاحظات",
+                "type": "text"
+            },
+            {
+                "header": "StatusID",
+                "value": 4,
+                "caption": "كود الحالة",
+                "type": "number"
+            },
+            {
+                "header": "StatusUserName",
+                "value": null,
+                "caption": "اسم المستخدم",
+                "type": "date"
+            },
+            {
+                "header": "TimeStamp",
+                "value": "2024-08-16T16:39:53.380Z",
+                "caption": "وقت",
+                "type": "text"
+            },
+            {
+                "header": "UserName",
+                "value": null,
+                "caption": "المستخدم",
+                "type": "text"
+            },
+            {
+                "header": "AssetName",
+                "value": "صندوق تروس رقم4",
+                "caption": "اسم المعدة",
+                "type": "text"
+            },
+            {
+                "header": "IsGenerated",
+                "caption": "IsGenerated",
+                "type": "check"
+            },
+            {
+                "header": "Genertate",
+                "value": 42,
+                "caption": "انشاء بلاغ",
+                "type": "button",
+                "id": 1
+            }
+        ],
+        [
+            {
+                "header": "CheckID",
+                "value": 43,
+                "caption": "",
+                "type": "text"
+            },
+            {
+                "header": "YearID",
+                "value": 2024,
+                "caption": "السنه",
+                "type": "text"
+            },
+            {
+                "header": "DepartmentID",
+                "value": 4015299,
+                "caption": "كود المحطه",
+                "type": "text"
+            },
+            {
+                "header": "AssetList",
+                "currentValue": 435137,
+                "CurrentName": "لوحة محول مساعد رقم4",
+                "caption": "اسم العدة",
+                "type": "dropdown",
+                "id": 1
+            },
+            {
+                "header": "WorksDone",
+                "value": "لا",
+                "caption": "الاعمال التي تمت",
+                "type": "text"
+            },
+            {
+                "header": "CheckRemarks",
+                "value": "",
+                "caption": "الملاحظات",
+                "type": "text"
+            },
+            {
+                "header": "StatusID",
+                "value": 4,
+                "caption": "كود الحالة",
+                "type": "number"
+            },
+            {
+                "header": "StatusUserName",
+                "value": null,
+                "caption": "اسم المستخدم",
+                "type": "date"
+            },
+            {
+                "header": "TimeStamp",
+                "value": "2024-08-16T16:42:05.830Z",
+                "caption": "وقت",
+                "type": "text"
+            },
+            {
+                "header": "UserName",
+                "value": null,
+                "caption": "المستخدم",
+                "type": "text"
+            },
+            {
+                "header": "AssetName",
+                "value": "لوحة محول مساعد رقم4",
+                "caption": "اسم المعدة",
+                "type": "text"
+            },
+            {
+                "header": "IsGenerated",
+                "caption": "IsGenerated",
+                "type": "check"
+            },
+            {
+                "header": "Genertate",
+                "value": 43,
+                "caption": "انشاء بلاغ",
+                "type": "button",
+                "id": 1
+            }
+        ],
+        [
+            {
+                "header": "CheckID",
+                "value": 44,
+                "caption": "",
+                "type": "text"
+            },
+            {
+                "header": "YearID",
+                "value": 2024,
+                "caption": "السنه",
+                "type": "text"
+            },
+            {
+                "header": "DepartmentID",
+                "value": 4015299,
+                "caption": "كود المحطه",
+                "type": "text"
+            },
+            {
+                "header": "AssetList",
+                "currentValue": 435079,
+                "CurrentName": "طلمبة رقم2",
+                "caption": "اسم العدة",
+                "type": "dropdown",
+                "id": 1
+            },
+            {
+                "header": "WorksDone",
+                "value": "لا",
+                "caption": "الاعمال التي تمت",
+                "type": "text"
+            },
+            {
+                "header": "CheckRemarks",
+                "value": "لا",
+                "caption": "الملاحظات",
+                "type": "text"
+            },
+            {
+                "header": "StatusID",
+                "value": 4,
+                "caption": "كود الحالة",
+                "type": "number"
+            },
+            {
+                "header": "StatusUserName",
+                "value": null,
+                "caption": "اسم المستخدم",
+                "type": "date"
+            },
+            {
+                "header": "TimeStamp",
+                "value": "2024-08-16T16:44:31.630Z",
+                "caption": "وقت",
+                "type": "text"
+            },
+            {
+                "header": "UserName",
+                "value": null,
+                "caption": "المستخدم",
+                "type": "text"
+            },
+            {
+                "header": "AssetName",
+                "value": "طلمبة رقم2",
+                "caption": "اسم المعدة",
+                "type": "text"
+            },
+            {
+                "header": "IsGenerated",
+                "caption": "IsGenerated",
+                "type": "check"
+            },
+            {
+                "header": "Genertate",
+                "value": 44,
+                "caption": "انشاء بلاغ",
+                "type": "button",
+                "id": 1
+            }
+        ],
+        [
+            {
+                "header": "CheckID",
+                "value": 46,
+                "caption": "",
+                "type": "text"
+            },
+            {
+                "header": "YearID",
+                "value": 2024,
+                "caption": "السنه",
+                "type": "text"
+            },
+            {
+                "header": "DepartmentID",
+                "value": 4015299,
+                "caption": "كود المحطه",
+                "type": "text"
+            },
+            {
+                "header": "AssetList",
+                "currentValue": 435079,
+                "CurrentName": "طلمبة رقم2",
+                "caption": "اسم العدة",
+                "type": "dropdown",
+                "id": 1
+            },
+            {
+                "header": "WorksDone",
+                "value": "جيد",
+                "caption": "الاعمال التي تمت",
+                "type": "text"
+            },
+            {
+                "header": "CheckRemarks",
+                "value": null,
+                "caption": "الملاحظات",
+                "type": "text"
+            },
+            {
+                "header": "StatusID",
+                "value": 4,
+                "caption": "كود الحالة",
+                "type": "number"
+            },
+            {
+                "header": "StatusUserName",
+                "value": null,
+                "caption": "اسم المستخدم",
+                "type": "date"
+            },
+            {
+                "header": "TimeStamp",
+                "value": "2024-08-16T16:46:40.080Z",
+                "caption": "وقت",
+                "type": "text"
+            },
+            {
+                "header": "UserName",
+                "value": null,
+                "caption": "المستخدم",
+                "type": "text"
+            },
+            {
+                "header": "AssetName",
+                "value": "طلمبة رقم2",
+                "caption": "اسم المعدة",
+                "type": "text"
+            },
+            {
+                "header": "IsGenerated",
+                "caption": "IsGenerated",
+                "type": "check"
+            },
+            {
+                "header": "Genertate",
+                "value": 46,
+                "caption": "انشاء بلاغ",
+                "type": "button",
+                "id": 1
+            }
+        ],
+        [
+            {
+                "header": "CheckID",
+                "value": 48,
+                "caption": "",
+                "type": "text"
+            },
+            {
+                "header": "YearID",
+                "value": 2024,
+                "caption": "السنه",
+                "type": "text"
+            },
+            {
+                "header": "DepartmentID",
+                "value": 4015299,
+                "caption": "كود المحطه",
+                "type": "text"
+            },
+            {
+                "header": "AssetList",
+                "currentValue": 435104,
+                "CurrentName": "محرك كهربائي رقم1",
+                "caption": "اسم العدة",
+                "type": "dropdown",
+                "id": 1
+            },
+            {
+                "header": "WorksDone",
+                "value": "تست",
+                "caption": "الاعمال التي تمت",
+                "type": "text"
+            },
+            {
+                "header": "CheckRemarks",
+                "value": null,
+                "caption": "الملاحظات",
+                "type": "text"
+            },
+            {
+                "header": "StatusID",
+                "value": 4,
+                "caption": "كود الحالة",
+                "type": "number"
+            },
+            {
+                "header": "StatusUserName",
+                "value": null,
+                "caption": "اسم المستخدم",
+                "type": "date"
+            },
+            {
+                "header": "TimeStamp",
+                "value": "2024-08-16T19:04:33.230Z",
+                "caption": "وقت",
+                "type": "text"
+            },
+            {
+                "header": "UserName",
+                "value": null,
+                "caption": "المستخدم",
+                "type": "text"
+            },
+            {
+                "header": "AssetName",
+                "value": "محرك كهربائي رقم1",
+                "caption": "اسم المعدة",
+                "type": "text"
+            },
+            {
+                "header": "IsGenerated",
+                "caption": "IsGenerated",
+                "type": "check"
+            },
+            {
+                "header": "Genertate",
+                "value": 48,
+                "caption": "انشاء بلاغ",
+                "type": "button",
+                "id": 1
+            }
+        ],
+        [
+            {
+                "header": "CheckID",
+                "value": 49,
+                "caption": "",
+                "type": "text"
+            },
+            {
+                "header": "YearID",
+                "value": 2024,
+                "caption": "السنه",
+                "type": "text"
+            },
+            {
+                "header": "DepartmentID",
+                "value": 4015299,
+                "caption": "كود المحطه",
+                "type": "text"
+            },
+            {
+                "header": "AssetList",
+                "currentValue": 435079,
+                "CurrentName": "طلمبة رقم2",
+                "caption": "اسم العدة",
+                "type": "dropdown",
+                "id": 1
+            },
+            {
+                "header": "WorksDone",
+                "value": "لا",
+                "caption": "الاعمال التي تمت",
+                "type": "text"
+            },
+            {
+                "header": "CheckRemarks",
+                "value": "لا",
+                "caption": "الملاحظات",
+                "type": "text"
+            },
+            {
+                "header": "StatusID",
+                "value": 4,
+                "caption": "كود الحالة",
+                "type": "number"
+            },
+            {
+                "header": "StatusUserName",
+                "value": null,
+                "caption": "اسم المستخدم",
+                "type": "date"
+            },
+            {
+                "header": "TimeStamp",
+                "value": "2024-08-16T19:18:00.560Z",
+                "caption": "وقت",
+                "type": "text"
+            },
+            {
+                "header": "UserName",
+                "value": null,
+                "caption": "المستخدم",
+                "type": "text"
+            },
+            {
+                "header": "AssetName",
+                "value": "طلمبة رقم2",
+                "caption": "اسم المعدة",
+                "type": "text"
+            },
+            {
+                "header": "IsGenerated",
+                "caption": "IsGenerated",
+                "type": "check"
+            },
+            {
+                "header": "Genertate",
+                "value": 49,
+                "caption": "انشاء بلاغ",
+                "type": "button",
+                "id": 1
+            }
+        ],
+        [
+            {
+                "header": "CheckID",
+                "value": 50,
+                "caption": "",
+                "type": "text"
+            },
+            {
+                "header": "YearID",
+                "value": 2024,
+                "caption": "السنه",
+                "type": "text"
+            },
+            {
+                "header": "DepartmentID",
+                "value": 4015299,
+                "caption": "كود المحطه",
+                "type": "text"
+            },
+            {
+                "header": "AssetList",
+                "currentValue": 435109,
+                "CurrentName": "محرك كهربائي رقم6",
+                "caption": "اسم العدة",
+                "type": "dropdown",
+                "id": 1
+            },
+            {
+                "header": "WorksDone",
+                "value": "ل",
+                "caption": "الاعمال التي تمت",
+                "type": "text"
+            },
+            {
+                "header": "CheckRemarks",
+                "value": "لا",
+                "caption": "الملاحظات",
+                "type": "text"
+            },
+            {
+                "header": "StatusID",
+                "value": 4,
+                "caption": "كود الحالة",
+                "type": "number"
+            },
+            {
+                "header": "StatusUserName",
+                "value": null,
+                "caption": "اسم المستخدم",
+                "type": "date"
+            },
+            {
+                "header": "TimeStamp",
+                "value": "2024-08-16T19:20:27.430Z",
+                "caption": "وقت",
+                "type": "text"
+            },
+            {
+                "header": "UserName",
+                "value": null,
+                "caption": "المستخدم",
+                "type": "text"
+            },
+            {
+                "header": "AssetName",
+                "value": "محرك كهربائي رقم6",
+                "caption": "اسم المعدة",
+                "type": "text"
+            },
+            {
+                "header": "IsGenerated",
+                "caption": "IsGenerated",
+                "type": "check"
+            },
+            {
+                "header": "Genertate",
+                "value": 50,
+                "caption": "انشاء بلاغ",
+                "type": "button",
+                "id": 1
+            }
+        ],
+        [
+            {
+                "header": "CheckID",
+                "value": 52,
+                "caption": "",
+                "type": "text"
+            },
+            {
+                "header": "YearID",
+                "value": 2024,
+                "caption": "السنه",
+                "type": "text"
+            },
+            {
+                "header": "DepartmentID",
+                "value": 4015299,
+                "caption": "كود المحطه",
+                "type": "text"
+            },
+            {
+                "header": "AssetList",
+                "currentValue": 435080,
+                "CurrentName": "طلمبة رقم3",
+                "caption": "اسم العدة",
+                "type": "dropdown",
+                "id": 1
+            },
+            {
+                "header": "WorksDone",
+                "value": "لا",
+                "caption": "الاعمال التي تمت",
+                "type": "text"
+            },
+            {
+                "header": "CheckRemarks",
+                "value": "لا",
+                "caption": "الملاحظات",
+                "type": "text"
+            },
+            {
+                "header": "StatusID",
+                "value": 4,
+                "caption": "كود الحالة",
+                "type": "number"
+            },
+            {
+                "header": "StatusUserName",
+                "value": "لينا",
+                "caption": "اسم المستخدم",
+                "type": "date"
+            },
+            {
+                "header": "TimeStamp",
+                "value": "2024-08-16T19:27:21.523Z",
+                "caption": "وقت",
+                "type": "text"
+            },
+            {
+                "header": "UserName",
+                "value": null,
+                "caption": "المستخدم",
+                "type": "text"
+            },
+            {
+                "header": "AssetName",
+                "value": "طلمبة رقم3",
+                "caption": "اسم المعدة",
+                "type": "text"
+            },
+            {
+                "header": "IsGenerated",
+                "caption": "IsGenerated",
+                "type": "check"
+            },
+            {
+                "header": "Genertate",
+                "value": 52,
+                "caption": "انشاء بلاغ",
+                "type": "button",
+                "id": 1
+            }
+        ],
+        [
+            {
+                "header": "CheckID",
+                "value": 57,
+                "caption": "",
+                "type": "text"
+            },
+            {
+                "header": "YearID",
+                "value": 2024,
+                "caption": "السنه",
+                "type": "text"
+            },
+            {
+                "header": "DepartmentID",
+                "value": 4015299,
+                "caption": "كود المحطه",
+                "type": "text"
+            },
+            {
+                "header": "AssetList",
+                "currentValue": 435094,
+                "CurrentName": "صندوق تروس رقم5",
+                "caption": "اسم العدة",
+                "type": "dropdown",
+                "id": 1
+            },
+            {
+                "header": "WorksDone",
+                "value": "جيد",
+                "caption": "الاعمال التي تمت",
+                "type": "text"
+            },
+            {
+                "header": "CheckRemarks",
+                "value": "جيد",
+                "caption": "الملاحظات",
+                "type": "text"
+            },
+            {
+                "header": "StatusID",
+                "value": 4,
+                "caption": "كود الحالة",
+                "type": "number"
+            },
+            {
+                "header": "StatusUserName",
+                "value": "لينا",
+                "caption": "اسم المستخدم",
+                "type": "date"
+            },
+            {
+                "header": "TimeStamp",
+                "value": "2024-08-16T19:29:19.030Z",
+                "caption": "وقت",
+                "type": "text"
+            },
+            {
+                "header": "UserName",
+                "value": null,
+                "caption": "المستخدم",
+                "type": "text"
+            },
+            {
+                "header": "AssetName",
+                "value": "صندوق تروس رقم5",
+                "caption": "اسم المعدة",
+                "type": "text"
+            },
+            {
+                "header": "IsGenerated",
+                "caption": "IsGenerated",
+                "type": "check"
+            },
+            {
+                "header": "Genertate",
+                "value": 57,
+                "caption": "انشاء بلاغ",
+                "type": "button",
+                "id": 1
+            }
+        ],
+        [
+            {
+                "header": "CheckID",
+                "value": 13,
+                "caption": "",
+                "type": "text"
+            },
+            {
+                "header": "YearID",
+                "value": 2024,
+                "caption": "السنه",
+                "type": "text"
+            },
+            {
+                "header": "DepartmentID",
+                "value": 4015299,
+                "caption": "كود المحطه",
+                "type": "text"
+            },
+            {
+                "header": "AssetList",
+                "currentValue": 435078,
+                "CurrentName": "طلمبه رقم1",
+                "caption": "اسم العدة",
+                "type": "dropdown",
+                "id": 1
+            },
+            {
+                "header": "WorksDone",
+                "value": "تم الفحص",
+                "caption": "الاعمال التي تمت",
+                "type": "text"
+            },
+            {
+                "header": "CheckRemarks",
+                "value": ".",
+                "caption": "الملاحظات",
+                "type": "text"
+            },
+            {
+                "header": "StatusID",
+                "value": 4,
+                "caption": "كود الحالة",
+                "type": "number"
+            },
+            {
+                "header": "StatusUserName",
+                "value": "host",
+                "caption": "اسم المستخدم",
+                "type": "date"
+            },
+            {
+                "header": "TimeStamp",
+                "value": "2024-08-05T14:42:02.320Z",
+                "caption": "وقت",
+                "type": "text"
+            },
+            {
+                "header": "UserName",
+                "value": null,
+                "caption": "المستخدم",
+                "type": "text"
+            },
+            {
+                "header": "AssetName",
+                "value": "طلمبه رقم1",
+                "caption": "اسم المعدة",
+                "type": "text"
+            },
+            {
+                "header": "IsGenerated",
+                "caption": "IsGenerated",
+                "type": "check"
+            },
+            {
+                "header": "Genertate",
+                "value": 13,
+                "caption": "انشاء بلاغ",
+                "type": "button",
+                "id": 1
+            }
+        ],
+        [
+            {
+                "header": "CheckID",
+                "value": 5,
+                "caption": "",
+                "type": "text"
+            },
+            {
+                "header": "YearID",
+                "value": 2024,
+                "caption": "السنه",
+                "type": "text"
+            },
+            {
+                "header": "DepartmentID",
+                "value": 4015299,
+                "caption": "كود المحطه",
+                "type": "text"
+            },
+            {
+                "header": "AssetList",
+                "currentValue": 435078,
+                "CurrentName": "طلمبه رقم1",
+                "caption": "اسم العدة",
+                "type": "dropdown",
+                "id": 1
+            },
+            {
+                "header": "WorksDone",
+                "value": "test1111",
+                "caption": "الاعمال التي تمت",
+                "type": "text"
+            },
+            {
+                "header": "CheckRemarks",
+                "value": "test111",
+                "caption": "الملاحظات",
+                "type": "text"
+            },
+            {
+                "header": "StatusID",
+                "value": 4,
+                "caption": "كود الحالة",
+                "type": "number"
+            },
+            {
+                "header": "StatusUserName",
+                "value": "host",
+                "caption": "اسم المستخدم",
+                "type": "date"
+            },
+            {
+                "header": "TimeStamp",
+                "value": "2024-08-05T14:42:02.320Z",
+                "caption": "وقت",
+                "type": "text"
+            },
+            {
+                "header": "UserName",
+                "value": null,
+                "caption": "المستخدم",
+                "type": "text"
+            },
+            {
+                "header": "AssetName",
+                "value": "طلمبه رقم1",
+                "caption": "اسم المعدة",
+                "type": "text"
+            },
+            {
+                "header": "IsGenerated",
+                "caption": "IsGenerated",
+                "type": "check"
+            },
+            {
+                "header": "Genertate",
+                "value": 5,
+                "caption": "انشاء بلاغ",
+                "type": "button",
+                "id": 1
+            }
+        ],
+        [
+            {
+                "header": "CheckID",
+                "value": 6,
+                "caption": "",
+                "type": "text"
+            },
+            {
+                "header": "YearID",
+                "value": 2024,
+                "caption": "السنه",
+                "type": "text"
+            },
+            {
+                "header": "DepartmentID",
+                "value": 4015299,
+                "caption": "كود المحطه",
+                "type": "text"
+            },
+            {
+                "header": "AssetList",
+                "currentValue": 435080,
+                "CurrentName": "طلمبة رقم3",
+                "caption": "اسم العدة",
+                "type": "dropdown",
+                "id": 1
+            },
+            {
+                "header": "WorksDone",
+                "value": "test1",
+                "caption": "الاعمال التي تمت",
+                "type": "text"
+            },
+            {
+                "header": "CheckRemarks",
+                "value": "test1",
+                "caption": "الملاحظات",
+                "type": "text"
+            },
+            {
+                "header": "StatusID",
+                "value": 4,
+                "caption": "كود الحالة",
+                "type": "number"
+            },
+            {
+                "header": "StatusUserName",
+                "value": null,
+                "caption": "اسم المستخدم",
+                "type": "date"
+            },
+            {
+                "header": "TimeStamp",
+                "value": "2024-08-05T14:42:02.320Z",
+                "caption": "وقت",
+                "type": "text"
+            },
+            {
+                "header": "UserName",
+                "value": null,
+                "caption": "المستخدم",
+                "type": "text"
+            },
+            {
+                "header": "AssetName",
+                "value": "طلمبة رقم3",
+                "caption": "اسم المعدة",
+                "type": "text"
+            },
+            {
+                "header": "IsGenerated",
+                "caption": "IsGenerated",
+                "type": "check"
+            },
+            {
+                "header": "Genertate",
+                "value": 6,
+                "caption": "انشاء بلاغ",
+                "type": "button",
+                "id": 1
+            }
+        ]
+    ],
+    "dropdownList": {
+        "id": 1,
+        "list": [
+            {
+                "name": "طلمبه رقم1",
+                "value": 435078
+            },
+            {
+                "name": "طلمبة رقم2",
+                "value": 435079
+            },
+            {
+                "name": "طلمبة رقم3",
+                "value": 435080
+            },
+            {
+                "name": "طلمبه رقم4",
+                "value": 435081
+            },
+            {
+                "name": "طلمبه رقم5",
+                "value": 435082
+            },
+            {
+                "name": "طلمبة رقم6",
+                "value": 435083
+            },
+            {
+                "name": "صندوق تروس رقم1",
+                "value": 435090
+            },
+            {
+                "name": "صندوق تروس رقم2",
+                "value": 435091
+            },
+            {
+                "name": "صندوق تروس رقم3",
+                "value": 435092
+            },
+            {
+                "name": "صندوق تروس رقم4",
+                "value": 435093
+            },
+            {
+                "name": "صندوق تروس رقم5",
+                "value": 435094
+            },
+            {
+                "name": "صندوق تروس رقم6",
+                "value": 435095
+            },
+            {
+                "name": "محرك كهربائي رقم1",
+                "value": 435104
+            },
+            {
+                "name": "محرك كهربائي رقم2",
+                "value": 435105
+            },
+            {
+                "name": "محرك كهربائي رقم3",
+                "value": 435106
+            },
+            {
+                "name": "محرك كهربائي رقم4",
+                "value": 435107
+            },
+            {
+                "name": "محرك كهربائي رقم5",
+                "value": 435108
+            },
+            {
+                "name": "محرك كهربائي رقم6",
+                "value": 435109
+            },
+            {
+                "name": "محول رئيسي رقم1",
+                "value": 435110
+            },
+            {
+                "name": "محول مساعد رقم1",
+                "value": 435111
+            },
+            {
+                "name": "ونش العنبر رقم1",
+                "value": 435112
+            },
+            {
+                "name": "ونش الأعشاب رقم1",
+                "value": 435113
+            },
+            {
+                "name": "ونش أعشاب رقم2",
+                "value": 435114
+            },
+            {
+                "name": "ونش بوبابات المص رقم1",
+                "value": 435115
+            },
+            {
+                "name": "ونش بوابات الطرد رقم1",
+                "value": 435116
+            },
+            {
+                "name": "محول مساعد رقم2",
+                "value": 435131
+            },
+            {
+                "name": "لوحة محول رئيسي رقم1",
+                "value": 435132
+            },
+            {
+                "name": "لوحة محول رئيسي رقم2",
+                "value": 435133
+            },
+            {
+                "name": "لوحة محول مساعد رقم1",
+                "value": 435134
+            },
+            {
+                "name": "لوحة محول مساعد رقم2",
+                "value": 435135
+            },
+            {
+                "name": "لوحة محول مساعد رقم3",
+                "value": 435136
+            },
+            {
+                "name": "لوحة محول مساعد رقم4",
+                "value": 435137
+            },
+            {
+                "name": "لوحة ربط رقم1",
+                "value": 435145
+            },
+            {
+                "name": "لوحة ربط رقم2",
+                "value": 435146
+            },
+            {
+                "name": "تربينة رقم1",
+                "value": 435147
+            },
+            {
+                "name": "لوحة الوحدة رقم1",
+                "value": 435148
+            },
+            {
+                "name": "لوحة الوحدة رقم2",
+                "value": 435149
+            },
+            {
+                "name": "لوحة الوحدة رقم3",
+                "value": 435150
+            },
+            {
+                "name": "لوحة الوحدة رقم4",
+                "value": 435151
+            },
+            {
+                "name": "لوحة الوحدة رقم5",
+                "value": 435152
+            },
+            {
+                "name": "لوحة الوحدة رقم6",
+                "value": 435153
+            },
+            {
+                "name": "لوحة تحكم كنترول رقم1",
+                "value": 435154
+            },
+            {
+                "name": "لوحة تحكم كنترول رقم2",
+                "value": 435155
+            },
+            {
+                "name": "لوحة تحكم كنترول رقم3",
+                "value": 435156
+            },
+            {
+                "name": "لوحة تحكم كنترول رقم4",
+                "value": 435157
+            },
+            {
+                "name": "لوحة تحكم كنترول رقم5",
+                "value": 435158
+            },
+            {
+                "name": "لوحة تحكم كنترول رقم6",
+                "value": 435159
+            }
+        ]
+    }
+}
